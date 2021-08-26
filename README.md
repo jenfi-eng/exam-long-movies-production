@@ -23,6 +23,7 @@ Here we want an API endpoint for movie producers to be able to create a movie & 
     - Still increment the current month
     - Respond with a failure
 1. Your previous [Movies API](https://github.com/jenfi-eng/exam-short-movie-api) output should now be updated with the new Movies.
+1. Add `RSpec` coverage of API and anything else you believe is necessary.
 
 ## For simplicity
 
